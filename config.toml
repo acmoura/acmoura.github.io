@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://acmoura.github.io/"
 
 # Title of your site
 title = "Academic"
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
+  name = "Ana Moura"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
