@@ -1,6 +1,6 @@
 +++
 title = "Causes of regional variation in healthcare expenditures in the Netherlands: evidence from movers"
-date = "2018-23-02"
+date = "2018-02-23"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
