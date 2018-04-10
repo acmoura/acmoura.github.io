@@ -36,3 +36,5 @@ weight = 5
 # Biography
 
 I am a PhD candidate in Economics at Tilburg University.
+
+{{% staticref "files/cv - AM.pdf" %}}Download my CV{{% /staticref %}}
