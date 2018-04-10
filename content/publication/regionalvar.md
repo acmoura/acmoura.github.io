@@ -1,4 +1,4 @@
-+++ title = "Causes of regional variation in healthcare expenditures in the Netherlands: evidence from movers" date = "February, 2018"
++++ title = "Causes of regional variation in healthcare expenditures in the Netherlands: evidence from movers" date = "23-02-2018"
 authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
 publication_types = ["3"]
 publication = "" publication_short = ""
