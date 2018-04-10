@@ -1,12 +1,11 @@
 +++
-date =   # Schedule page publish date.
-
+date = ""
 title = ""
 time_start = 
 time_end = 
 abstract = ""
 abstract_short = ""
-event = "12th European Conference on Health Economics"
+event = "12th European Conference on Health Economics, July 2018"
 event_url = "http://www.euhea2018.eu"
 location = "Maastricht, the Netherlands"
 
