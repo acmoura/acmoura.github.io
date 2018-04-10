@@ -37,4 +37,4 @@ weight = 5
 
 I am a PhD candidate in Economics at Tilburg University.
 
-{{% staticref "files/cv - AM.pdf" %}}Download my CV{{% /staticref %}}
+You can download a full version of my CV {{% staticref "files/cv - AM.pdf" %}}here{{% /staticref %}}.
