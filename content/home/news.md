@@ -15,6 +15,5 @@ weight = 20
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I will be representing Tilburg University in the 2018 Econometric Game!
+I am part of the Tilburg University team for the 2018 Econometric Game! The game will take place in Amsterdam, 11-13 April.
+See more in http://www.econometricgame.com 
