@@ -25,7 +25,7 @@ abstract = "In the past two decades, many European countries allowed Over-the-Co
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "photo.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
