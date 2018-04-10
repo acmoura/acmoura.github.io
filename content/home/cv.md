@@ -10,7 +10,7 @@ title = "CV" subtitle = "" widget = "cv"
 
 CV location
 
-cv_pdf = "./files/Tanedo.pdf"
+cv_pdf = "./files/cv - AM.pdf"
 
 
 +++
