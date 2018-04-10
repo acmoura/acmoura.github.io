@@ -1,8 +1,8 @@
 +++
 date = ""
 title = ""
-time_start = 
-time_end = 
+time_start = ""
+time_end = ""
 abstract = ""
 abstract_short = ""
 event = "12th European Conference on Health Economics, July 2018"
