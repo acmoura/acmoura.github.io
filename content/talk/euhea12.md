@@ -2,8 +2,8 @@
 date = "11-07-2018"
 title = ""
 time_start = ""
-time_end = ""
-abstract = ""
+time_end = 
+abstract = 
 abstract_short = ""
 event = "12th European Conference on Health Economics, July 2018"
 event_url = "http://www.euhea2018.eu"
