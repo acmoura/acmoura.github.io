@@ -224,15 +224,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//twitter.com/ana_c_moura"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = ""
+  #[[params.social]]
+  #  icon = "google-scholar"
+  # icon_pack = "ai"
+  # link = ""
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = ""
+    link = "https://github.com/acmoura"
 
 
 # Navigation Links
