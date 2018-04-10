@@ -10,29 +10,31 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Health Economics",
-    "Applied Microeconometrics",
-    "Industrial Organization"
+    "Artificial Intelligence",
+    "Computational Linguistics",
+    "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MRes Economics"
-  institution = "Tilburg University"
-  year = 2017
-
-[[education.courses]]
-  course = "MSc Economics"
-  institution = "Nova School of Business and Economics"
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
   year = 2012
 
 [[education.courses]]
-  course = "BSc Economics"
-  institution = "Nova School of Business and Economics"
-  year = 2010
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
  
 +++
 
 # Biography
 
-I am a PhD candidate in Economics at Tilburg University.
+Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
