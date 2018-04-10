@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "July, 2018"
 title = ""
 time_start = ""
 time_end = ""
