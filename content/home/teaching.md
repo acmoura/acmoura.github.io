@@ -1,17 +1,15 @@
-## 
+## This is a markdown file
 +++
 
 widget = "teaching" 
 active = true 
 date = "2016-04-20T00:00:00"
 
-title = "Teaching" subtitle = ""
-
+title = "Teaching" 
+subtitle = ""
 weight = 20
 
 +++
-
-This is an example of using the custom widget to create your own homepage section.
 
 I am a teaching instructor for the following courses at University X:
 
