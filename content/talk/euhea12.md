@@ -1,5 +1,5 @@
 +++
-date = July, 2018  # Schedule page publish date.
+date =   # Schedule page publish date.
 
 title = ""
 time_start = 
