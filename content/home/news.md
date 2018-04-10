@@ -16,4 +16,4 @@ weight = 20
 +++
 
 I am part of the Tilburg University team for the 2018 Econometric Game! The game will take place in Amsterdam, 11-13 April.
-See more in http://www.econometricgame.com 
+More information {{% staticref "http://www.econometricgame.com" %}}here{{% /staticref %}}. 
