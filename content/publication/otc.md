@@ -34,7 +34,7 @@ selected = false
 math = true
 
 # Does the content use source code highlighting?
-highlight = true
+highlight = false
 
 
 +++
