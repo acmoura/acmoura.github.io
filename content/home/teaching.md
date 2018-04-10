@@ -14,10 +14,10 @@ subtitle = ""
 weight = 60
 
 
-
++++ 
 Tilburg University:
 I am an instructor for Data-Analysis (BSc course) and a teaching assistant for Statistics (Pre-MSc course).
 
 School of Public Health, UNL (Portugal):
 In Fall 2014 I was a Teaching Assistant for Health Economics (MSc course).
-+++
+
