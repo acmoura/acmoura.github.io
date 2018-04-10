@@ -15,14 +15,6 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+I am an instructor for Data-Analysis (BSc course) and a teaching assistant for Statistics (Pre-MSc course) at Tilburg University.
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+In Fall 2014 I was a teaching assistant for Health Economics (MSc course) at the National School of Public Health, UNL, Portugal.
