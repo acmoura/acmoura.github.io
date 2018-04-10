@@ -14,7 +14,7 @@ authors = ["A Moura", "PP Barros"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -34,7 +34,7 @@ selected = false
 math = true
 
 # Does the content use source code highlighting?
-highlight = false
+highlight = true
 
 
 +++
