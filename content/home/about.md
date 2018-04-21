@@ -39,4 +39,4 @@ I am a PhD candidate in Economics at Tilburg University. I am interested in micr
 
 My supervisors are Martin Salm and Jan Boone. I expect to graduate in summer 2021.
 
-You can download a full version of my CV {{% staticref "files/cv - AM.pdf" %}}here{{% /staticref %}}.
+You can download a full version of my CV {{% staticref "files/cv.pdf" %}}here{{% /staticref %}}.
