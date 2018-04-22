@@ -20,6 +20,7 @@ count = 10
 #   2 = APA
 #   3 = MLA
 list_format = 3
+detailed_list = true
 
 # Filter by publication type.
 # -1: Any
