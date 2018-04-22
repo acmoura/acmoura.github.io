@@ -23,6 +23,8 @@ publication_types = ["7"]
 publication = ""
 publication_short = ""
 
+url_custom = [{name = "otc", url = "http://acmoura.github.io/publication/otc}]
+              
 # Featured image thumbnail (optional)
 image_preview = ""
 
