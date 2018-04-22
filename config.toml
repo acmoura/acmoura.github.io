@@ -5,7 +5,7 @@
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://acmoura.github.io/"
 relativeURLS=false
-canonifyURLs=true
+canonifyURLs=false
 
 # Title of your site
 title = "Ana Moura"
