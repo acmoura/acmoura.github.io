@@ -22,8 +22,6 @@ publication_types = ["7"]
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
-
-url_custom = [{name = "otc", url = "http://acmoura.github.io/publication/otc}]
               
 # Featured image thumbnail (optional)
 image_preview = ""
