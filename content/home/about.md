@@ -33,7 +33,7 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
 I am a PhD candidate in Economics at Tilburg University. I am interested in microeconometrics applications within health economics. My current research topics include identifying the sources of regional variation in healthcare expenditures and competition in the market for over-the-counter drugs.
 
