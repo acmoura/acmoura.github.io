@@ -11,6 +11,8 @@ highlight = false
 #   3 = MLA
 list_format = 3
 
+abstract = ""
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
