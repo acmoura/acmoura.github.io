@@ -15,5 +15,7 @@ weight = 20
 
 +++
 
-I am part of the Tilburg University team for the 2018 Econometric Game! The game will take place in Amsterdam, 11-13 April.
-More information {{% staticref "http://www.econometricgame.com" %}}here{{% /staticref %}}. 
+I will be presenting at the following upcoming conferences:
+
+- lowlands Health Economic Study Group (lolaHESG). May 24-25, Hoenderloo.
+- 12th European Conference on Health Economics (EuHEA). July 11-14, Maastricht.
