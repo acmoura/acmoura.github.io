@@ -15,7 +15,7 @@ weight = 20
 
 +++
 
-I will be presenting at the following upcoming conferences:
+I will be presenting my recent work at the following conferences:
 
 - lowlands Health Economic Study Group (lolaHESG). May 24-25, Hoenderloo.
 - 12th European Conference on Health Economics (EuHEA). July 11-14, Maastricht.
