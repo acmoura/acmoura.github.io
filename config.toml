@@ -176,10 +176,6 @@ defaultContentLanguageInSubdir = false
     'Book section',  # 6
     'Working paper'  # 7
   ]
-
-  # Permalinks
-  [permalinks]
-    publication = "/:slug"
     
   # Configuration of talk pages.
   [params.talks]
