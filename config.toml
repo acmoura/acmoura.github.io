@@ -177,6 +177,10 @@ defaultContentLanguageInSubdir = false
     'Working paper'  # 7
   ]
 
+  # Permalinks
+  [permalinks]
+    publication = "/:slug"
+    
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
