@@ -5,6 +5,8 @@ abstract_short = ""
 title = "Entry liberalization and price competition in Portugal: what can we learn from OTC products?"
 date = "2018-04-03"
 
+"working" date = "2018-04-03T00:00:00Z"
+
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["A Moura", "PP Barros"]
 
