@@ -17,5 +17,5 @@ weight = 20
 
 I will be presenting my recent work at the following conferences:
 
-- 12th European Conference on Health Economics (EuHEA). July 11-14, Maastricht.
 - 5th EuHEA PhD Student-Supervisor Conference. September 5-7, Catania.
+- 7th APES Health Economics Workshop. September 28-30, Penamacor. 
