@@ -12,8 +12,7 @@
   
 # A basic redirects rule for my publications
 [[redirects]]
-  from = "https://anamoura.site/publication/otc/"
-  to = "https://acmoura.github.io/publication/otc/"
+/publication/otc/            "https://anamoura.site/publication/otc/"
   
 [[redirects]]
   from = "https://acmoura.github.io/publication/regvar/"
