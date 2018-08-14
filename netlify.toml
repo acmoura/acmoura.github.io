@@ -14,7 +14,11 @@
 [[redirects]]
   from = "https://anamoura.site/publication/otc/"
   to = "https://acmoura.github.io/publication/otc/"
+  status = 401
+  force = true
   
 [[redirects]]
   from = "https://acmoura.github.io/publication/regvar/"
   to = "https://anamoura.site/publication/regvar/"
+  status = 401
+  force = true
