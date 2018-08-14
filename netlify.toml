@@ -10,7 +10,3 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.39"
   
-# A basic redirects rule for my publications  
-[[redirects]]
-  from = "/publication/regvar/"
-  to = "https://anamoura.site/publication/regvar/"
