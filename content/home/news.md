@@ -15,7 +15,4 @@ weight = 20
 
 +++
 
-I will be presenting my recent work at the following conferences:
-
-- 5th EuHEA PhD Student-Supervisor Conference. September 5-7, Catania.
-- 7th APES Health Economics Workshop. September 28-30, Penamacor. 
+One of the projects I have been working on is now published as a Discussion Paper at the CPB (Netherlands Bureau for Economic Policy Analysis). Pdf version available here: {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}
