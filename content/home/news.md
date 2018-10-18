@@ -15,4 +15,4 @@ weight = 20
 
 +++
 
-One of the projects I have been working on is now published as a Discussion Paper at the CPB (Netherlands Bureau for Economic Policy Analysis). Pdf version available here: {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}
+The regional variation project I have been working on is now published as a Discussion Paper at the Netherlands Bureau for Economic Policy Analysis. A PDF version is available {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}.
