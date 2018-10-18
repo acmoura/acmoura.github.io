@@ -15,4 +15,4 @@ weight = 20
 
 +++
 
-The regional variation project I have been working on is now published as a Discussion Paper at the Netherlands Bureau for Economic Policy Analysis. A PDF version is available {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}.
+Our project on hte causes of regional variation in healthcare expenditures in the Netherlands is now published as a Discussion Paper at the Netherlands Bureau for Economic Policy Analysis. A PDF version can be found {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}.
