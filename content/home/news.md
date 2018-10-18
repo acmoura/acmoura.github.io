@@ -15,6 +15,6 @@ weight = 20
 
 +++
 
-Our project on hte causes of regional variation in healthcare expenditures in the Netherlands is now published as a Discussion Paper at the Netherlands Bureau for Economic Policy Analysis. 
+Our project on the causes of regional variation in healthcare expenditures in the Netherlands is now published as a Discussion Paper at the Netherlands Bureau for Economic Policy Analysis. 
 
 A PDF version can be found {{% staticref "/files/regvar_wp.pdf" "newtab" %}}here{{% /staticref %}}.
