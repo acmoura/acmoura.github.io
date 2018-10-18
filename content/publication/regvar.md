@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "pdf/regvar_wp.pdf"
+url_pdf = "files/regvar_wp.pdf"
 +++
 
 
