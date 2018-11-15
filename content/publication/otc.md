@@ -4,7 +4,7 @@ abstract = "In the past two decades, many European countries allowed Over-the-Co
 We assess the impact on drug prices associated with the entry of supermarkets and non-pharmacy outlets in the OTC market, using a difference-in-differences strategy. We use price data on five popular OTC drugs for all OTC retailers located in the municipality of Lisbon for three distinct points in time.
 Our results show that competitive pressure in the market is mainly exerted by super- markets, which charge, on average, 20% lower prices than pharmacies. The entry of a supermarket among the main competitors of a retailer leads to an average 4 to 5% decrease in prices. Additional results from a reduced-form entry model and a propensity score matching difference-in-differences approach give some confidence that these effects are causal."
 abstract_short = ""
-title = "Entry liberalization and price competition in Portugal: what can we learn from OTC products?"
+title = "Entry liberalization and price competition in Portugal in the Portuguese over-the-counter drug market"
 date = "2018-11-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
