@@ -1,10 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "In the last two decades, many European countries have allowed Over-the-Counter (OTC) drugs to be sold outside pharmacies. This was expected to lower retail prices through increased competition. However, evidence on price reductions is scarce.
-We assess the impact on OTC prices associated with the entry of supermarkets and non-pharmacy outlets in the OTC market, using a difference-in-differences strategy. We use price data on five popular OTC drugs for all OTC retailers located in Lisbon
-for three distinct points in time (2006, 2010, and 2015).
-We find that competitive pressure in the market is mainly exerted by supermarkets, which charge, on average, 20% lower prices than pharmacies. The entry of a supermarket among the main competitors of a retailer is associated with an average 4% to 5% decrease
-in prices. Additional results from a reduced-form entry model and a propensity score matching difference-in-differences approach suggest that these effects are causal."
+abstract = "In the last two decades, many European countries have allowed Over-the-Counter (OTC) drugs to be sold outside pharmacies. This was expected to lower retail prices through increased competition. However, evidence on price reductions is scarce. We assess the impact on OTC prices associated with the entry of supermarkets and non-pharmacy outlets in the OTC market, using a difference-in-differences strategy. We use price data on five popular OTC drugs for all OTC retailers located in Lisbon for three distinct points in time (2006, 2010, and 2015). We find that competitive pressure in the market is mainly exerted by supermarkets, which charge, on average, 20% lower prices than pharmacies. The entry of a supermarket among the main competitors of a retailer is associated with an average 4% to 5% decrease in prices. Additional results from a reduced-form entry model and a propensity score matching difference-in-differences approach suggest that these effects are causal."
 abstract_short = ""
 title = "Entry liberalization and price competition in the Portuguese over-the-counter drug market"
 date = "2019-01-16"
