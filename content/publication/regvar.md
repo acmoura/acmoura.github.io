@@ -36,7 +36,6 @@ highlight = true
 
 url_pdf = "files/regvar_wp.pdf"
 
-This paper is currently R&R for Health Economics
 +++
 
 
