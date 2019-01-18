@@ -35,7 +35,7 @@ math = true
 highlight = true
 
 url_pdf = "files/regvar_wp.pdf"
-url_custom = [{name = "Suppl. Material", url = "files/OTC_27nov2018 - ExtraMaterial.pdf"}]
+
 +++
 
 
