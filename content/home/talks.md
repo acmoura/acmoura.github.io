@@ -20,6 +20,6 @@ list_format = 0
 
 +++
 
-3-4 July 2019: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
+3-4 July: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
 
 13-17 July: International Health Economics Association 2019 Congress. Basel, Switzerland.
