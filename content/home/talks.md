@@ -1,7 +1,7 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "talks"
-active = false
+active = true
 date = "2016-04-20T00:00:00"
 
 title = "Recent & Upcoming Talks"
@@ -20,3 +20,6 @@ list_format = 0
 
 +++
 
+3-4 July 2019: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
+
+13-17 July: International Health Economics Association 2019 Congress. Basel, Switzerland.
