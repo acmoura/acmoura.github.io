@@ -37,6 +37,6 @@ weight = 5
 
 I am a PhD candidate in Economics at Tilburg University. I am interested in microeconometric applications within health economics. My current research topics include identifying the sources of regional variation in healthcare expenditures and competition in the market for over-the-counter drugs.
 
-My supervisors are [Martin Salm](https://www.tilburguniversity.edu/webwijs/show/m.salm.htm) and [Jan Boone](https://janboone.github.io/homepage/). I expect to graduate in summer 2021.
+My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). I expect to graduate in summer 2021.
 
 You can download a full version of my CV {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
