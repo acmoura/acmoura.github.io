@@ -19,6 +19,7 @@ count = 10
 list_format = 0
 
 +++
+4-5 April: ENTER Jamboree 2019. Tilburg University, the Netherlands. (discussant)
 
 3-4 July: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
 
