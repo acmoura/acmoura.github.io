@@ -35,8 +35,10 @@ weight = 5
 
 # About me
 
-I am a PhD candidate in Economics at Tilburg University. I am interested in microeconometric applications within health economics. My current research topics include identifying the sources of regional variation in healthcare expenditures and price competition in the market for over-the-counter drugs.
+Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, majoring in applied microeconometrics. I am particularly interested in applications within the fields of health economics and industrial organization. Some of my current research projects include identifying the sources of regional variation in healthcare expenditures and retailer price competition in the market for over-the-counter drugs.
 
 My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). I expect to graduate in summer 2021.
+
+I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. I am also a member of the board of the Portuguese Health Economics Association.
 
 You can download a full version of my CV {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
