@@ -18,10 +18,10 @@ authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CPB Discussion Paper 384"
+publication = "CPB Discussion Paper 384. Forthocming in Health Economics."
 publication_short = ""
 
 # Is this a selected publication? (true/false)
