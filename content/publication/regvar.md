@@ -21,7 +21,7 @@ authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "CPB Discussion Paper 384. Forthocming in Health Economics."
+publication = "CPB Discussion Paper 384. Forthcoming in Health Economics"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
