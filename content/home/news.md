@@ -15,4 +15,4 @@ weight = 20
 
 +++
 
-My project with Martin Salm, Rudy Douven, and Minke Remmerswaal on the causes of regional variation in healthcare expenditures in the Netherlands is now avaiable online at Health Economics! You can check it out [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hec.3917)
+My project with Martin Salm, Rudy Douven, and Minke Remmerswaal on the causes of regional variation in healthcare expenditures in the Netherlands is now avaiable online at Health Economics! You can check it out [here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hec.3917).
