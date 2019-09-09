@@ -21,7 +21,7 @@ authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Forthcoming in Health Economics. Previous version available as CPB Discussion Paper 384"
+publication = "Health Economics. Previous version available as CPB Discussion Paper 384"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -34,7 +34,7 @@ math = true
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/regvar_wp.pdf"
+url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hec.3917"
 
 +++
 
