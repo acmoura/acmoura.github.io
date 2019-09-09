@@ -35,7 +35,7 @@ math = true
 highlight = true
 
 url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hec.3917"
-
+url_custom = [{name = "Working Paper version", url = "regvar_wp.pdf"}]
 +++
 
 
