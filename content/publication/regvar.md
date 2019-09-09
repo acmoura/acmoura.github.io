@@ -21,7 +21,7 @@ authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Health Economics. Previous version available as CPB Discussion Paper 384"
+publication = "Health Economics"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
@@ -35,7 +35,7 @@ math = true
 highlight = true
 
 url_pdf = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hec.3917"
-url_custom = [{name = "Working Paper version", url = "regvar_wp.pdf"}]
+url_custom = [{name = "Working Paper version", url = "files/regvar_wp.pdf"}]
 +++
 
 
