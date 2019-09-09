@@ -4,7 +4,7 @@ abstract = "We assess the relative importance of demand and supply factors as de
 abstract_short = ""
 
 title = "Causes of regional variation in Dutch healthcare expenditures: evidence from movers"
-date = "2018-10-18"
+date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
