@@ -21,7 +21,7 @@ authors = ["A Moura", "PP Barros"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Working paper, currently being revised"
 publication_short = ""
               
 # Featured image thumbnail (optional)
