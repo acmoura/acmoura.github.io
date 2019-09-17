@@ -17,6 +17,7 @@ authors = ["A Moura", "PP Barros"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
+# 7 = Working Paper
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
