@@ -177,6 +177,7 @@ defaultContentLanguageInSubdir = false
     'Working paper'  # 7
   ]
     
+   
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
@@ -258,7 +259,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
   
 [[menu.main]]
-  name = "Working Papers"
+  name = "Publications"
   url = "#publications"
   weight = 3
 
