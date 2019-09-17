@@ -19,8 +19,8 @@ count = 10
 list_format = 0
 
 +++
-4-5 April: ENTER Jamboree 2019. Tilburg University, the Netherlands. (discussant)
-
-3-4 July: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
+16-18 October: 16th Portuguese Health Economics Conference. Lisbon, Portugal.
 
 13-17 July: International Health Economics Association 2019 Congress. Basel, Switzerland.
+
+3-4 July: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
