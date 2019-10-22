@@ -36,7 +36,7 @@ math = false
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/OTC_20Mar2019.pdf" 
+url_pdf = "files/OTC_website_Oct22.pdf" 
 url_custom = [{name = "Supplementary Material", url = "files/OTC_27nov2018 - ExtraMaterial.pdf"}]
 +++
 
