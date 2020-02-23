@@ -1,7 +1,7 @@
 +++
 # Work in progress widget.
 # This widget displays recent publications from `content/publication/`.
-widget = "wip"
+widget = "publications"
 active = true
 date = 2016-04-20
 
