@@ -265,7 +265,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Work in Progress"
-  url = "#publications_wip"
+  url = "#publications-wip"
   weight = 4
   
 #[[menu.main]]
