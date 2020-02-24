@@ -7,7 +7,7 @@ title = "Causes of regional variation in Dutch healthcare expenditures: evidence
 date = "2019-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A Moura", "M Salm", "R Douven", "M Remmerswaal"]
+authors = ["Ana Moura", "Martin Salm", "Rudy Douven", "Minke Remmerswaal"]
 
 # Publication type.
 # Legend:
