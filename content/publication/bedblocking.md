@@ -7,7 +7,7 @@ title = "Long-term care provision and hospital bed-blocking"
 date = "2020-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A Moura"]
+authors = ["Ana Moura"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["A Moura"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
 publication = ""
