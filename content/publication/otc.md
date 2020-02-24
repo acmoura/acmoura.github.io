@@ -6,7 +6,7 @@ title = "Entry and price competition in the over-the-counter drug market after d
 date = "2019-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A Moura", "PP Barros"]
+authors = ["Ana Moura", "Pedro Pita Barros"]
 
 # Publication type.
 # Legend:
