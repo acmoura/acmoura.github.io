@@ -4,7 +4,6 @@ abstract = "We assess the relative importance of demand and supply factors as de
 
 image = "RegVarEventStudy.png"
   caption = "Event-study results"
-  focal_point = "Smart"
   preview = false
 
 
