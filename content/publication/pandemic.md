@@ -18,7 +18,7 @@ authors = ["Roweno Heijmans", "Ana Moura"]
 # 5 = Book
 # 6 = Book chapter
 # 7 = Working Paper
-publication_types = ["3"]
+publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
 publication = ""
