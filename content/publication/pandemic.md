@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "We identify four key properties that characterize the outbreak of a new infectious disease in a globalized world: medical uncertainty, strategic uncertainty, strategic complementarity, and simultaneous policy responses. When jointly considered, these properties imply a global game. For a world consisting of N ≥ 2 countries, we then prove uniqueness of equilibrium. This result relies crucially on the medical uncertainty, since games of complete information and strategic complementarities generically have multiple equilibria. The equilibrium selected may be inefficient: countries may choose not to eradicate the disease, even though eradication would be efficient. Furthermore, less severe diseases may end up causing more deaths than more severe diseases. Only through strong ex-ante cooperation can these outcomes be prevented."
 abstract_short = ""
 title = "Rational pandemics"
 date = "2020-04-01"
@@ -18,7 +18,7 @@ authors = ["Roweno Heijmans", "Ana Moura"]
 # 5 = Book
 # 6 = Book chapter
 # 7 = Working Paper
-publication_types = ["8"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -31,7 +31,7 @@ image_preview = ""
 selected = false
 
 # Does the content use math formatting?
-math = false
+math = true
 
 # Does the content use source code highlighting?
 highlight = true
