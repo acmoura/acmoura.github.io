@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, majoring in applied microeconometrics. I am particularly interested in applications within the field of health economics. Some of my current research projects include quantifying the effects of price competition in the market for over-the-counter drugs and assessing ways to reduce bed-blocking in hospital care provision.
+Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, majoring in applied microeconometrics. I am particularly interested in applications within the field of health economics. My current research projects include quantifying the effects of price competition in the market for over-the-counter drugs and assessing ways to reduce bed-blocking in hospital care provision.
 
 My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). I expect to graduate in summer 2021.
 
