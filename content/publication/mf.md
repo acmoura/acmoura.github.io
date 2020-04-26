@@ -20,7 +20,7 @@ authors = ["Ana Moura", "Pedro Pita Barros"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Acta Médica Portuguesa (in Portuguese)"
+publication = "Acta Medica Portuguesa (in Portuguese)"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
