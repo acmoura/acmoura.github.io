@@ -42,5 +42,3 @@ My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/perso
 I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. I am also a member of the board of the Portuguese Health Economics Association.
 
 Together with [Christoph Kronenberg](https://sites.google.com/view/christoph-kronenberg/home) I am organizing V-MESS, a virtual seminar on the economics of mental health. Click [here](https://sites.google.com/view/christoph-kronenberg/home/v-mess?authuser=0) for all the details.
-
-You can download a full version of my CV {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
