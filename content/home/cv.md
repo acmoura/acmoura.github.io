@@ -12,4 +12,4 @@ weight = 10
 
 
 +++
-You can download a full version of my CV {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
+A full version of my CV is available {{% staticref "/files/cv - AM.pdf" "newtab" %}}here{{% /staticref %}}.
