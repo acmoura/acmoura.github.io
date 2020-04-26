@@ -255,24 +255,29 @@ defaultContentLanguageInSubdir = false
   weight = 1
   
 [[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 2
+  
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
   
 [[menu.main]]
   name = "Working Papers"
   url = "#wp"
-  weight = 3
+  weight = 4
   
 [[menu.main]]
   name = "Work in Progress"
   url = "#wip"
-  weight = 4
-  
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
   weight = 5
+  
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 6
   
 #[[menu.main]]
 #  name = "Posts"
