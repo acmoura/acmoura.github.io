@@ -1,5 +1,5 @@
 +++
-# Recent and Upcoming Talks widget.
+# My CV widget.
 widget = "cv"
 active = true
 date = "2016-04-20T00:00:00"
@@ -8,7 +8,7 @@ title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 10
 
 
 +++
