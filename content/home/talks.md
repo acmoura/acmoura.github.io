@@ -19,8 +19,11 @@ count = 10
 list_format = 0
 
 +++
-16-18 October: 16th Portuguese Health Economics Conference. Lisbon, Portugal.
 
-13-17 July: International Health Economics Association 2019 Congress. Basel, Switzerland.
+May 15: Netherlands Econometric Study Group (virtual);
 
-3-4 July: American-European Health Economics Study Group - IV Edition. WU Vienna University of Economics and Business, Vienna, Austria. 
+AUgust 19: Applied Young Economist Webinar (virtual);
+
+August 24 - 27: Annual Congress of the European Economic Association (virtual); 
+
+October 1-3: Essen Health Conference. Essen, Germany. 
