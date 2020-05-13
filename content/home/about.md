@@ -9,8 +9,9 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Health Economics",
+  Primary field = [
+    "Health Economics"]
+  Secondary fields = [
     "Applied Microeconometrics",
     "Industrial Organization"
   ]
