@@ -22,7 +22,7 @@ list_format = 0
 
 May 15: Netherlands Econometric Study Group (virtual);
 
-AUgust 19: Applied Young Economist Webinar (virtual);
+August 19: Applied Young Economist Webinar (virtual);
 
 August 24 - 27: Annual Congress of the European Economic Association (virtual); 
 
