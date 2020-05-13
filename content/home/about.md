@@ -9,12 +9,12 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  Primary field = [
+  interests.Primary = [
     "Health Economics"]
-  Secondary fields = [
-    "Applied Microeconometrics",
-    "Industrial Organization"
-  ]
+ # Secondary fields = [
+ #   "Applied Microeconometrics",
+ #   "Industrial Organization"
+ # ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
