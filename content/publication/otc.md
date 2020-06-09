@@ -18,10 +18,10 @@ authors = ["Ana Moura", "Pedro Pita Barros"]
 # 5 = Book
 # 6 = Book chapter
 # 7 = Working Paper
-publication_types = ["7"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Working paper"
+publication = "Health Economics"
 publication_short = ""
               
 # Featured image thumbnail (optional)
@@ -36,7 +36,6 @@ math = false
 # Does the content use source code highlighting?
 highlight = true
 
-url_pdf = "files/OTC_Complete.pdf" 
-url_custom = [{name = "Online Appendix", url = "files/OTC_OnlineAppendix.pdf"}]
+url_pdf = "https://onlinelibrary.wiley.com/doi/full/10.1002/hec.4109" 
 +++
 
