@@ -1,9 +1,9 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We study why some infectious diseases become pandemics whilst others get eradicated, and suggest a mechanism to prevent the next pandemic in a game of incomplete information. While eradication games of perfect information tend to have multiple equilibria, we show that, for a world consisting of N ≥ 2 countries, even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, a pandemic may occur even though eradication would have been efficient, and less harmful diseases may cause more deaths. We then extend the game and, prior to an outbreak, let a subset of countries commit to eradication whenever it is not dominated. The equilibrium is again unique. Selection of the efficient no-pandemic equilibrium is facilitated by this type of international cooperation."
+abstract = "We study disease control in a game of imperfect information. While disease control games of perfect information tend to have multiple equilibria, we show that even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, an epidemic may occur even though it is ineffcient and could have been avoided. Moreover, less harmful diseases may cause more deaths. We extend the game to study cooperation and let a subset of players commit to control the disease whenever the expected benefit of doing so is sufficiently high. The equilibrium is again unique. Selection of a more favorable equilibrium is facilitated by this type of cooperation."
 abstract_short = ""
-title = "Pandemic policy in a global game"
-date = "2020-04-01"
+title = "Effcient Epidemics: Contagion, Control, and Cooperation in a Global Game"
+date = "2020-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Roweno Heijmans", "Ana Moura"]
