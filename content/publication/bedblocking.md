@@ -1,10 +1,10 @@
 +++
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Hospital bed-blocking occurs when patients are clinically fit to be discharged but require some support outside the hospital which is not readily available, resulting in longer lengths of stay. I study whether long-term care (LTC) provision reduces hospital bed-blocking. Using individual data on emergency inpatient admissions at Portuguese hospitals during 2000-2015, I implement a triple-differences design. This design exploits variation in the timing of entry of LTC providers across regions originating from the staggered introduction of the public LTC Network. It also exploits variation in lengths of stay between regular patients and patients exhibiting social factors that put them at risk of bed-blocking, such as living alone, having no family to care, and having inadequate housing. I find that the entry of the first home-care team in a region reduces the length of stay of individuals living alone and those with inadequate housing by 4 days relative to regular patients. These length of stay reductions do not aect the treatment received while at the hospital. Reductions in length of stay upon the entry of the first nursing home occur only for patients with high care needs. The beds freed up by bed-blockers are used to admit more elective patients."
 abstract_short = ""
 
-title = "Long-term care provision and hospital bed-blocking"
-date = "2020-02-01"
+title = "Does long-term care provision reduce hospital bed-blocking? Evidence from a policy reform in Portugal"
+date = "2020-07-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ana Moura"]
