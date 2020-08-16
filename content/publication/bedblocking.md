@@ -4,7 +4,7 @@ abstract = "Hospital bed-blocking occurs when patients are clinically fit to be 
 abstract_short = ""
 
 title = "Does long-term care provision reduce hospital bed-blocking? Evidence from a policy reform in Portugal"
-date = ""
+date = "  "
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ana Moura"]
