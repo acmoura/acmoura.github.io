@@ -21,7 +21,7 @@ authors = ["Ana Moura"]
 publication_types = ["8"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "Draft coming soon!"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
