@@ -1,49 +1,40 @@
 +++
+# Abstract and optional shortened version.
+abstract = ""
+abstract_short = ""
 
-Abstract and optional shortened version.
+title = "Access to the hospital and AMI survival"
+date = "2020-08-01"
 
-abstract = "" abstract_short = ""
-
-title = "Access to the hospital and AMI survival" date = "2020-08-01"
-
-Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ana Moura"]
 
-Publication type.
-
-Legend:
-
-0 = Uncategorized
-
-1 = Conference proceedings
-
-2 = Journal
-
-3 = Work in progress
-
-4 = Technical report
-
-5 = Book
-
-6 = Book chapter
-
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
 publication_types = ["8"]
 
-Publication name and optional abbreviated version.
+# Publication name and optional abbreviated version.
+publication = ""
+publication_short = ""
 
-publication = "" publication_short = ""
-
-Is this a selected publication? (true/false)
-
+# Is this a selected publication? (true/false)
 selected = false
 
-Does the content use math formatting?
 
+# Does the content use math formatting?
 math = true
 
-Does the content use source code highlighting?
-
+# Does the content use source code highlighting?
 highlight = true
 
+
 +++
+
+
