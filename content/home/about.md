@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, majoring in applied microeconometrics. I am particularly interested in applications within the field of health economics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
+Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University. I am interested in health economics and applied microeconomics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
 
 My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). I plan to go on the 2020/21 Job Market.
 
