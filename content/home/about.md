@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Health Economics",
-    "Applied Microeconometrics"
+    "Applied Microeconomics",
+    "Public Policy"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,9 +35,11 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University. I am interested in health economics and applied microeconomics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
+Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, planning to go on the 2020/21 Job Market.
 
-My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). I plan to go on the 2020/21 Job Market.
+I am interested in health economics and applied microeconomics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
+
+My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). 
 
 I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. I am also a member of the board of the Portuguese Health Economics Association.
 
