@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University. **I am on the 2020/21 Job Market.**
+Hi, and welcome to my website! I am a Ph.D. candidate in Economics at Tilburg University. **I am on the 2020/21 Job Market.**
 
 I am interested in health economics and applied microeconomics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
 
