@@ -18,24 +18,24 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MRes Economics"
-  institution = "Tilburg University"
+  institution = "Tilburg University, The Netherlands"
   year = 2017
 
 [[education.courses]]
   course = "MSc Economics"
-  institution = "Nova School of Business and Economics"
+  institution = "Nova School of Business and Economics, Portugal"
   year = 2012
 
 [[education.courses]]
   course = "BSc Economics"
-  institution = "Nova School of Business and Economics"
+  institution = "Nova School of Business and Economics, Portugal"
   year = 2010
  
 +++
 
 # About me
 
-Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University, the Netherlands. I am on the 2020/21 Job Market.
+Hi, and welcome to my website! I am a PhD candidate in Economics at Tilburg University. **I am on the 2020/21 Job Market.**
 
 I am interested in health economics and applied microeconomics. In my job market paper, I study whether long-term care provision reduces hospital bed-blocking.
 
