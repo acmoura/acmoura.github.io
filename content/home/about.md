@@ -11,8 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Health Economics",
-    "Applied Microeconometrics",
-    "Industrial Organization"
+    "Applied Microeconometrics"
   ]
 
 # List your qualifications (such as academic degrees).
