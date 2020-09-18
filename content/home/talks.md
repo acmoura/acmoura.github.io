@@ -20,12 +20,8 @@ list_format = 0
 
 +++
 
-May 15: Netherlands Econometric Study Group (virtual);
+September: Portuguese Health Economics Workshop.
 
-August 19: Applied Young Economist Webinar (virtual);
+October: Essen Health Conference. Essen, Germany. 
 
-August 24 - 27: Annual Congress of the European Economic Association (virtual); 
-
-September 3: IZA/Duisburg-Essen Workshop on the Economics of Long-Term Care and Healthy Aging (virtual);
-
-October 1-3: Essen Health Conference. Essen, Germany. 
+November: Health Economics Bristol, Center for Health Economics at Monash University.
