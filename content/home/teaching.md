@@ -15,6 +15,9 @@ weight = 60
 
 +++
 
-I am an instructor for Data-Analysis (BSc course) and a teaching assistant for Statistics (Pre-MSc course) at Tilburg University.
+**Tilburg University**
+Fall 2019 and fall 2020: Teaching assistant for Statistics & Data Management 2 (BSc course) and a grader for Statistics (Pre-MSc course).
+Fall 2019 and fall 2020: Teaching assistant for Data-Analysis (BSc course) and Statistics (Pre-MSc course).
 
-In Fall 2014 I was a teaching assistant for Health Economics (MSc course) at the National School of Public Health, UNL, Portugal.
+**School of Public Health, UNL**
+Fall 2014: Teaching assistant for Health Economics (MSc course for the Health Care Management, Hospital Management, and Public Health programs).
