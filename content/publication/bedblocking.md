@@ -27,6 +27,8 @@ publication_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
+url_custom = [{name = "Draft", url = "{{% staticref "/files/Moura_JMP.pdf" "newtab" %}}here{{% /staticref %}}"}] 
+
 
 # Does the content use math formatting?
 math = true
