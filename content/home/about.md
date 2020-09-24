@@ -35,9 +35,9 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a Ph.D. candidate in Economics at Tilburg University. **I am on the 2020/21 Job Market.**
+Hi, and welcome to my website! I am a Ph.D. candidate in Economics at Tilburg University. 
 
-I am interested in health economics and applied microeconomics. In my {{% staticref "/files/MouraJMP.pdf" "newtab" %}}Job Market Paper{{% /staticref %}}, I study whether long-term care provision reduces hospital bed-blocking.
+I am interested in health economics and applied microeconomics. In my {{% staticref "/files/MouraJMP.pdf" "newtab" %}}Job Market Paper{{% /staticref %}}, I study whether long-term care provision reduces hospital delayed discharges. **I am on the 2020/21 Job Market and I will be available for interviews at the EJM and ASSA 2020/2021 online job market meetings.**
 
 My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). 
 
