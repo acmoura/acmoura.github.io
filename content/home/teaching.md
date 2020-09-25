@@ -21,6 +21,6 @@ Fall 2019 and fall 2020: Teaching assistant for Statistics & Data Management 2 (
 
 Fall 2017 and fall 2018: Teaching assistant for Data-Analysis (BSc course) and Statistics (Pre-MSc course).
 
-**School of Public Health, UNL**
+**School of Public Health, Universidade Nova de Lisboa**
 
-Fall 2014: Teaching assistant for Health Economics (MSc course for the Health Care Management, Hospital Management, and Public Health programs).
+Fall 2014: Teaching assistant for Health Economics (MSc course for the Healthcare Management, Hospital Management, and Public Health programs).
