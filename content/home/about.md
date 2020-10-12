@@ -41,4 +41,4 @@ I am interested in health economics and applied microeconomics. In my {{% static
 
 I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. I am also a member of the board of the Portuguese Health Economics Association.
 
-Together with [Christoph Kronenberg](https://sites.google.com/view/christoph-kronenberg/home) I am organizing V-MESS, a virtual seminar on the economics of mental health. Click [here](https://sites.google.com/view/christoph-kronenberg/home/vmess?authuser=0) for all the details.
+Together with [Christoph Kronenberg](https://sites.google.com/view/christoph-kronenberg/home), I organize V-MESS, a virtual seminar on the economics of mental health. Click [here](https://sites.google.com/view/christoph-kronenberg/home/vmess?authuser=0) for all the details.
