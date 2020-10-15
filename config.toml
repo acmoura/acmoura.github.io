@@ -255,8 +255,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
   
 [[menu.main]]
-  name = "CV"
-  url = "#cv"
+  name = "Job Market Paper"
+  url = "#jmp"
   weight = 2
   
 [[menu.main]]
@@ -275,9 +275,14 @@ defaultContentLanguageInSubdir = false
   weight = 5
   
 [[menu.main]]
+  name = "CV"
+  url = "#cv"
+  weight = 6
+  
+[[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 6
+  weight = 7
   
 #[[menu.main]]
 #  name = "Posts"
@@ -292,12 +297,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 8
+  weight = 9
 
 # Taxonomies.
 #[taxonomies]
