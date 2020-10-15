@@ -1,7 +1,7 @@
 +++
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
-widget = "jmp"
+widget = "Publications"
 active = true
 date = 2016-04-20
 
