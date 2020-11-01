@@ -20,8 +20,6 @@ list_format = 0
 
 +++
 
-September: Portuguese Health Economics Workshop.
-
 October: Essen Health Conference. Essen, Germany. 
 
-November: Health Economics Bristol, Center for Health Economics at Monash University.
+November: Health Economics Bristol, Center for Health Economics at Monash University, DGGÖ Health Econometrics Workshop. 
