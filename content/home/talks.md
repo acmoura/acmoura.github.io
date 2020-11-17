@@ -19,7 +19,9 @@ count = 10
 list_format = 0
 
 +++
+ 
 
-October: Essen Health Conference. Essen, Germany. 
-
-November: Health Economics Bristol, Center for Health Economics at Monash University, DGGÖ Health Econometrics Workshop. 
+November 2020: 
+- Health Economics Bristol
+- Center for Health Economics at Monash University
+- DGGÖ Health Econometrics Workshop
