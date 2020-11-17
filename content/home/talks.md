@@ -21,7 +21,10 @@ list_format = 0
 +++
  
 
-November 2020: 
+**November 2020:**
+
 - Health Economics Bristol
+
 - Center for Health Economics at Monash University
+
 - DGGÖ Health Econometrics Workshop
