@@ -176,6 +176,7 @@ defaultContentLanguageInSubdir = false
     'Book section',  # 6
     'Working paper',  # 7
     'Work in Progress'  # 8
+    'Job Market Paper' # 9
   ]
     
    
