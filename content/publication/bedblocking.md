@@ -29,7 +29,7 @@ selected = false
 
 url_custom = [{name = "JMP Draft", url = "files/MouraJMP.pdf"}]
 
-url_custom = [{name = "Short video", url = "https://youtu.be/BhObZDdnHcA"}]
+url_video = [{name = "Short video", url = "https://youtu.be/BhObZDdnHcA"}]
 
 
 # Does the content use math formatting?
