@@ -20,11 +20,8 @@ list_format = 0
 
 +++
  
+- Netspar International Pension Workshop, virtual (Jan 2021)
 
-**November 2020:**
+- Royal Economic Society Conference, virtual (Apr 2021)
 
-- Health Economics Bristol
-
-- Center for Health Economics at Monash University
-
-- DGGÖ Health Econometrics Workshop
+- Workshop "The Causes and Consequences of Inequality", U Mannheim (Jun 2021)
