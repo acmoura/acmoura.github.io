@@ -20,8 +20,10 @@ list_format = 0
 
 +++
  
-- Netspar International Pension Workshop, virtual (Jan 2021)
+- EuHEA Seminar Series, virtual (Mar 2021)
 
 - Royal Economic Society Conference, virtual (Apr 2021)
+
+- Stockholm School of Economics (Apr 2021)
 
 - Workshop "The Causes and Consequences of Inequality", U Mannheim (Jun 2021)
