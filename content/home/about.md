@@ -35,10 +35,10 @@ weight = 5
 
 # About me
 
-Hi, and welcome to my website! I am a Ph.D. candidate in Economics at Tilburg University. My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/).
+I am a Ph.D. candidate in Economics at Tilburg University. My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). My research investigates the effects of public policy on the healthcare system and health outcomes. 
 
-I am interested in health economics and applied microeconomics. In my {{% staticref "/files/MouraJMP.pdf" "newtab" %}}Job Market Paper{{% /staticref %}}, I study whether the entry of subsidized nursing homes and teams providing home-care reduces hospital delayed discharges. **I am on the Job Market and I will be available for interviews at the EJM and ASSA 2020/2021 online job market meetings.**
+I will join the health economics group at [ZEW](https://www.zew.de/en/) as a post-doctoral researcher starting in fall 2021.
 
-I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. I am also a member of the board of the Portuguese Health Economics Association.
+I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. 
 
 Together with [Christoph Kronenberg](https://sites.google.com/view/christoph-kronenberg/home), I organize V-MESS, a virtual seminar on the economics of mental health. Click [here](https://sites.google.com/view/christoph-kronenberg/home/vmess?authuser=0) for all the details.
