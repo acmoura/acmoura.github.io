@@ -37,7 +37,7 @@ weight = 5
 
 I am a Ph.D. candidate in Economics at Tilburg University. My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). My research investigates the effects of public policy on the healthcare system and health outcomes. 
 
-I will join the health economics group at [ZEW](https://www.zew.de/en/) as a post-doctoral researcher starting in fall 2021.
+I will join the health economics group at [ZEW](https://www.zew.de/en/), Mannheim, as a post-doctoral researcher starting in fall 2021.
 
 I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. 
 
