@@ -18,7 +18,7 @@ authors = ["Ana Moura"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["9"]
+publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
 publication = ""
@@ -27,7 +27,7 @@ publication_short = ""
 # Is this a selected publication? (true/false)
 selected = false
 
-url_custom = [{name = "JMP Draft", url = "files/MouraJMP.pdf"}]
+url_custom = [{name = "Draft", url = "files/MouraJMP.pdf"}]
 
 
 # Does the content use math formatting?
