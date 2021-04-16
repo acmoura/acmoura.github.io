@@ -175,8 +175,7 @@ defaultContentLanguageInSubdir = false
     'Book',  # 5
     'Book section',  # 6
     'Working paper',  # 7
-    'Work in Progress',  # 8
-    'Job Market Paper' # 9
+    'Work in Progress' # 8
   ]
     
    
@@ -256,34 +255,29 @@ defaultContentLanguageInSubdir = false
   weight = 1
   
 [[menu.main]]
-  name = "Job Market Paper"
-  url = "#jmp"
-  weight = 2
-  
-[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3 
+  weight = 2 
  
 [[menu.main]]
   name = "Working Papers"
   url = "#wp"
-  weight = 4
+  weight = 3
   
 [[menu.main]]
   name = "Work in Progress"
   url = "#wip"
-  weight = 5
+  weight = 4
   
 [[menu.main]]
   name = "CV"
   url = "#cv"
-  weight = 6
+  weight = 5
   
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 7
+  weight = 6
   
 #[[menu.main]]
 #  name = "Posts"
@@ -298,12 +292,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 8
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 8
 
 # Taxonomies.
 #[taxonomies]
