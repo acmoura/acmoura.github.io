@@ -1,6 +1,6 @@
 +++
 # Abstract and optional shortened version.
-abstract = "We study disease control in a game of imperfect information. While disease control games of perfect information tend to have multiple equilibria, we show that even a small amount of uncertainty leads to equilibrium uniqueness. In equilibrium, an epidemic may occur even though it is ineffcient and could have been avoided. Moreover, less harmful diseases may cause more deaths. We extend the game to study cooperation and let a subset of players commit to control the disease whenever the expected benefit of doing so is sufficiently high. The equilibrium is again unique. Selection of a more favorable equilibrium is facilitated by this type of cooperation."
+abstract = "We study disease control in a global game. While disease control games of perfect information have multiple equilibria, we show that even a vanishing amount of uncertainty forces selection of a unique equilibrium, leading to several new results. In well-identified cases, an epidemic will occur albeit it is inefficient and could be avoided. More harmful diseases are less likely to become an epidemic and pose a lower burden on society. We also study cooperation and let some players commit to control the disease whenever the expected benefit is sufficiently high. Cooperation facilitates selection of an efficient equilibrium."
 abstract_short = ""
 title = "Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game"
 date = "2020-07-01"
@@ -37,7 +37,7 @@ math = true
 highlight = true
 
 # Link to pdf
-url_custom = [{name = "Draft", url = "files/HeijmansMoura_August_22_2020.pdf"}]
+url_custom = [{name = "Draft", url = "files/HeijmansMoura_April2021.pdf"}]
 #url_custom = [{name = "Webversion", url = "https://www.dropbox.com/sh/61uft5xqe5rcf0k/AABjVFjHpbFAnC0ZXhiFeccya?dl=0"}]
 
 
