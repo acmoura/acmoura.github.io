@@ -3,7 +3,7 @@
 abstract = "We study disease control in a global game. While disease control games of perfect information have multiple equilibria, we show that even a vanishing amount of uncertainty forces selection of a unique equilibrium, leading to several new results. In well-identified cases, an epidemic will occur albeit it is inefficient and could be avoided. More harmful diseases are less likely to become an epidemic and pose a lower burden on society. We also study cooperation and let some players commit to control the disease whenever the expected benefit is sufficiently high. Cooperation facilitates selection of an efficient equilibrium."
 abstract_short = ""
 title = "Efficient Epidemics: Contagion, Control, and Cooperation in a Global Game"
-date = "2020-07-01"
+date = "2021-04-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Roweno Heijmans", "Ana Moura"]
