@@ -4,7 +4,7 @@ abstract = "Payments to healthcare providers are increasingly tied to their perf
 abstract_short = ""
 
 title = "How do hospitals respond to incentives? The case of c-sections"
-date = "2021-15-05"
+date = "2021-05-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ana Moura", "Pedro Pita Barros"]
