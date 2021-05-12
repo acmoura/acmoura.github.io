@@ -4,7 +4,7 @@ abstract = "Excessive length of hospital stay is among the leading sources of in
 abstract_short = ""
 
 title = "Do subsidized nursing homes and home care teams reduce hospital bed-blocking? Evidence from Portugal"
-date = "2020-11-01"
+date = "2021-05-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ana Moura"]
