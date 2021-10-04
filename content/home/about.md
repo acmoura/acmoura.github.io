@@ -37,6 +37,6 @@ weight = 5
 
 I am a health economist interested in improving decision-making in areas that directly impact individual well-being.
 
-In October 2021, I joined [OPEN Health](https://pharmerit.com) as a Senior Research Analyst with the Modelling and Meta-Analysis team in Rotterdam.
+In October 2021, I joined [OPEN Health](https://pharmerit.com) as a Senior Research Analyst with the Modeling and Meta-Analysis team in Rotterdam.
 
 I will receive a Ph.D. in Economics from [Tilburg University](https://www.tilburguniversity.edu) on November 3, 2021. My doctoral research investigates the effects of public policies on the healthcare system and health outcomes. I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. 
