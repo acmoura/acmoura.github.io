@@ -35,7 +35,7 @@ weight = 5
 
 # About me
 
-I am a health economist interested in informing decision-making in healthcare with the ultimate goal of improving individual well-being.
+I am a health economist interested in informing decision-making in healthcare and contributing to improve individual well-being.
 
 In October 2021, I joined [OPEN Health](https://pharmerit.com) as a Senior Research Analyst with the Modeling and Meta-Analysis team in Rotterdam.
 
