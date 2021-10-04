@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Health Economics",
-    "Applied Microeconomics",
-    "Public Policy"
+    "Applied Microeconometrics",
+    "Health Policy"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,10 +35,8 @@ weight = 5
 
 # About me
 
-I am a Ph.D. candidate in Economics at Tilburg University. My supervisors are [Martin Salm](https://research.tilburguniversity.edu/en/persons/martin-salm) and [Jan Boone](https://janboone.github.io/homepage/). My research investigates the effects of public policies on the healthcare system and health outcomes. 
+I am a health economist interested in improving decision-making in areas that directly impact individual well-being.
 
-I will join the health economics group at [ZEW](https://www.zew.de/en/), Mannheim, as a post-doctoral researcher starting in the fall.
+In October 2021, I joined [OPEN Health](https://pharmerit.com) as a Senior Research Analyst with the Modelling and Meta-Analysis team in Rotterdam.
 
-I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. 
-
-Together with [Christoph Kronenberg](https://sites.google.com/view/christoph-kronenberg/home), I organize V-MESS, a virtual seminar on the economics of mental health. Click [here](https://sites.google.com/view/christoph-kronenberg/home/vmess?authuser=0) for all the details.
+I will receive a Ph.D. in Economics from [Tilburg University](https://www.tilburguniversity.edu) on November 3, 2021. My doctoral research investigates the effects of public policies on the healthcare system and health outcomes. I am affiliated with the [Health Economics & Management Knowledge Center](https://www2.novasbe.unl.pt/health) at Nova School of Business and Economics, Lisbon. 
