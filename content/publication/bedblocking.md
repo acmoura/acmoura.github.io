@@ -21,7 +21,7 @@ authors = ["Ana Moura"]
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "R&R at Journal of Health Economics"
 publication_short = ""
 
 # Is this a selected publication? (true/false)
