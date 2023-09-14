@@ -2,6 +2,9 @@
   publish = "public"
   command = "hugo"
 
+[build.processing]
+  skip_processing = true
+  
 [context.production.environment]
   HUGO_VERSION = "0.39"
   HUGO_ENV = "production"
